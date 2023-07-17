@@ -1,0 +1,34 @@
+.a{
+    background-color: black;
+    color: white;
+    padding-left: 40px; 
+    padding-right: 40px;
+    display: inline-block;
+    border-style: solid;
+   border-color: rgb(224, 13, 129);
+}
+.shigjetari{
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+}
+.peshku{
+   
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+}
+
+
+.leo{
+    border-radius: 50%;
+    width: 80px;
+    height: 80px; 
+   
+}
+.akrepi{
+   
+    border-radius: 50%;
+    width: 80px;
+    height: 80px; 
+}
